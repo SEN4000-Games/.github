@@ -1,6 +1,3 @@
-# SEN4000 - Principles of Programming (Games)
+# Repo for CST-SEN4000-Games Front Page #
 
-Landing page for SEN4000-Games!
-
-## Work in Progress ##
-This organsiation holds repositories for the Games version of SEN4000 (Principles of Programming), you'll need to be part of the student group to access the repositories here.
+Must ahve a readme in the ```/profile``` for this to work, can also have a version for internal use in ```.github-private/```. Here profile is the public one for students / staff who are not logged in or not part of the group while the private one will contain an index (at some point). 
